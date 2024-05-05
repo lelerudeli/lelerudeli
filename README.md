@@ -13,7 +13,7 @@ me chamo `Letícia Rudeli`, tenho `17 anos` e sou de `São Paulo - SP`. Atualmen
 
 <br>
 
-##  - teconologias
+##  - tecnologias
 
 <div align="center">
 
